@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.inbox{
+display: flex;
+flex-direction: column;
+margin: 20px;
+}
+.from-date{
+  display: flex;
+  justify-content: space-between;
+}
+.image{
+  width: 700px;
+ margin-left: 100px;
+}
